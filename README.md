@@ -41,4 +41,4 @@ I am a 3rd year **B.Tech CSE student** at **BBD University** with a passion for 
 
 * 📧 **Email:** contact.rahul82@gmail.com
 * 🔗 **LinkedIn:** 
-* 💼 **Portfolio:** (https://rahul-web01.github.io/Scholarspace-main/)
+* 💼 **Portfolio:** https://rahul-web01.github.io/Scholarspace-main/
