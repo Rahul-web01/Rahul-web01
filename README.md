@@ -2,7 +2,7 @@
 
 ### 🚀 Backend Developer | Java & Spring Boot Enthusiast
 
-I am a final-year **B.Tech CSE student** at **BBD University** with a passion for building scalable, high-performance backend systems. I specialize in designing robust APIs, managing complex databases, and engineering logic that drives modern web applications.
+I am a 3rd year **B.Tech CSE student** at **BBD University** with a passion for building scalable, high-performance backend systems. I specialize in designing robust APIs, managing complex databases, and engineering logic that drives modern web applications.
 
 ---
 
