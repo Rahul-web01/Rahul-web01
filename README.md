@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi there, I'm Rahul Singh! 👋
 
-<!--
-**Rahul-web01/Rahul-web01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Backend Developer | Java & Spring Boot Enthusiast
 
-Here are some ideas to get you started:
+I am a final-year **B.Tech CSE student** at **BBD University** with a passion for building scalable, high-performance backend systems. I specialize in designing robust APIs, managing complex databases, and engineering logic that drives modern web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack
+
+| **Category** | **Technologies** |
+| :--- | :--- |
+| **Backend** | Java (Core/Adv), Spring Boot, RESTful APIs, Microservices |
+| **Database** | MySQL, PostgreSQL, Hibernate (JPA) |
+| **Tools** | Git & GitHub, Postman, Maven, VS Code |
+| **Concepts** | Data Structures (DSA), OOPs, System Design |
+
+---
+
+### 🏆 Featured Project
+
+#### 🎓 [ScholarSpace](https://github.com/Rahul-web01/Scholarspace-main)
+*A centralized academic platform for students and educators.*
+* **Role:** Lead Backend Developer
+* **Tech:** HTML5, CSS3, Java Logic
+* **Key Features:**
+    * Managed structured database for study materials.
+    * Developed algorithms for accurate SGPA/CGPA calculation.
+    * Implemented secure user authentication logic.
+
+---
+
+### 📊 GitHub Stats
+
+![Rahul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rahul-web01&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul-web01&layout=compact&theme=radical)
+
+---
+
+### 📬 Connect with Me
+
+* 📧 **Email:** [Your Email Here]
+* 🔗 **LinkedIn:** [Link to your LinkedIn Profile]
+* 💼 **Portfolio:** [Link to your Portfolio if you have one]
