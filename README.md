@@ -10,7 +10,7 @@ I am a 3rd year **B.Tech CSE student** at **BBD University** with a passion for 
 
 | **Category** | **Technologies** |
 | :--- | :--- |
-| **Backend** | Java (Core/Adv), Spring Boot, RESTful APIs, Microservices |
+| **Backend** | Java (Core/Adv), Python, Spring Boot, RESTful APIs, Microservices |
 | **Database** | MySQL, PostgreSQL, Hibernate (JPA) |
 | **Tools** | Git & GitHub, Postman, Maven, VS Code |
 | **Concepts** | Data Structures (DSA), OOPs, System Design |
