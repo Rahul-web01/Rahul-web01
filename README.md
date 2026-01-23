@@ -1,41 +1,40 @@
-# Hi there, I'm Rahul Singh! 👋
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2094F7&center=true&vCenter=true&width=435&lines=Hi!+I'm+Rahul+Singh;Java+Backend+Developer;Building+Scalable+Systems;Always+Learning" alt="Typing SVG" />
+</div>
 
-### 🚀 Backend Developer | Java & Spring Boot Enthusiast
+<h3 align="center">🚀 About Me</h3>
 
-I am a 3rd year **B.Tech CSE student** at **BBD University** with a passion for building scalable, high-performance backend systems. I specialize in designing robust APIs, managing complex databases, and engineering logic that drives modern web applications.
+<p align="center">
+ I am a Computer Science student at <b>BBDU</b>, passionate about building efficient backend systems using <b>Java</b> and <b>Data Structures</b>. Currently working on <b>ScholarSpace</b>.
+</p>
 
----
-
-### 🛠️ Tech Stack
-
-| **Category** | **Technologies** |
-| :--- | :--- |
-| **Backend** | Java (Core/Adv), Python, Spring Boot, RESTful APIs, Microservices |
-| **Database** | MySQL, PostgreSQL, Hibernate (JPA) |
-| **Tools** | Git & GitHub, Postman, Maven, VS Code |
-| **Concepts** | Data Structures (DSA), OOPs, System Design |
-
----
-
-### 🏆 Featured Project
-
-#### 🎓 [ScholarSpace](https://github.com/Rahul-web01/Scholarspace-main)
-*A centralized academic platform for students and educators.*
-* **Role:** Lead Backend Developer
-* **Tech:** HTML5, CSS3, Java Logic
-* **Key Features:**
-    * Managed structured database for study materials.
-    * Developed algorithms for accurate SGPA/CGPA calculation.
-    * Implemented secure user authentication logic.
+<p align="center">
+  <a href="https://linkedin.com/in/rahul-singh-cse">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:contact.rahul82@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-### 📊 GitHub Stats
+<h3 align="center">🛠️ Tech Stack</h3>
 
-![Rahul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rahul-web01&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul-web01&layout=compact&theme=radical)
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,mysql,spring,html,css,git,github,vscode,idea" />
+</div>
 
 ---
+
+<h3 align="center">📊 GitHub Stats</h3>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rahul-web01&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul-web01&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" alt="languages graph" />
+</div>
+
+<br/>
 
 ### 📬 Connect with Me
 
