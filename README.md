@@ -35,9 +35,3 @@
 </div>
 
 <br/>
-
-### 📬 Connect with Me
-
-* 📧 **Email:** contact.rahul82@gmail.com
-* 🔗 **LinkedIn:** [linkedin.com/in/rahul-singh-cse](https://www.linkedin.com/in/rahul-singh-cse/)
-* 💼 **Portfolio:** https://rahul-web01.github.io/Scholarspace-main/
