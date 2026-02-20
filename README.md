@@ -1,42 +1,43 @@
-<!-- ====================== HEADER ====================== -->
+<!-- ================= HEADER ================= -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=1F6FEB&center=true&vCenter=true&width=800&lines=Rahul+Singh;Backend+Engineer+%7C+Java+%7C+Spring+Boot;Designing+Scalable+REST+Architectures;Building+Production-Ready+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=1F6FEB&center=true&vCenter=true&width=750&lines=Rahul+Singh;Python+Backend+Engineer;Django+%7C+REST+APIs+%7C+Database+Systems;Building+Scalable+Production+Backends" />
 </div>
 
 <br/>
 
 <h1 align="center">Rahul Singh</h1>
-<h3 align="center">Backend Engineer •Python •Django • Java(Basic) • Spring Boot • MySQL • REST Architecture</h3>
+<h3 align="center">Backend Engineer | Python | Django | MySQL | REST Architecture</h3>
 
 ---
 
-## 🧠 Engineering Identity
+## 🧠 Engineering Profile
 
-Backend-focused engineer specializing in designing structured, scalable, and maintainable server-side systems.
+Backend-focused Computer Science engineer building structured, scalable, and production-ready server-side systems using **Python and Django**.
 
-I build:
-- Clean REST APIs
-- Modular backend architectures
-- Optimized database schemas
-- Production-ready Java applications
+### I focus on:
 
-Current Focus:
-- System Design fundamentals
-- Performance optimization
-- Backend scalability patterns
+- Clean and maintainable backend architecture  
+- RESTful API development  
+- Database schema design & optimization  
+- Authentication and authorization flows  
+- Applying Data Structures to backend problems  
+
+Currently improving: **ScholarSpace (500+ users)**
 
 ---
 
-## 🏗️ Backend Architecture Approach
+## 🏗 Backend Architecture Flow
 
 ```text
 Client Request
-     ↓
-Controller Layer
-     ↓
-Service Layer (Business Logic)
-     ↓
-Repository Layer
-     ↓
+    ↓
+URL Routing
+    ↓
+View / Controller Logic
+    ↓
+Service Layer
+    ↓
+ORM
+    ↓
 Database
