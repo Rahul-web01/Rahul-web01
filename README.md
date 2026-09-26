@@ -38,47 +38,51 @@ Detail-oriented **Software Engineer** with hands-on experience building RESTful 
 
 ---
 
-## 🛠️ Tech Stack
+## ⚡ Tech Stack & Engineering Arsenal
 
-**Languages**
-<br/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
-**Backend & Frameworks**
-<br/>
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-<img src="https://img.shields.io/badge/Spring_MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-<img src="https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-<img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />
-<img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=postman&logoColor=white" />
+### 💻 Languages
+<img src="https://skillicons.dev/icons?i=java,js" />
 
-**Architecture & Messaging**
-<br/>
-<img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
-<img src="https://img.shields.io/badge/Microservices-000000?style=for-the-badge&logo=cloudsmith&logoColor=white" />
-<img src="https://img.shields.io/badge/System_Design-4B32C3?style=for-the-badge" />
+### ⚙️ Backend & Frameworks
+<img src="https://skillicons.dev/icons?i=spring,maven" />
+<br/><sub>Spring Boot • Spring MVC • Spring Data JPA • Hibernate • JDBC</sub>
 
-**Databases**
-<br/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/H2_Database-1F6FEB?style=for-the-badge" />
+### 🗄️ Databases & Caching
+<img src="https://skillicons.dev/icons?i=mysql" />
+<br/><sub>MySQL • H2 Database • RDBMS • Query Optimization</sub>
 
-**Cloud & DevOps**
-<br/>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" />
-<img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+### 🧪 Testing & Tools
+<img src="https://skillicons.dev/icons?i=git,idea,postman" />
+<br/><sub>JUnit • Postman • IntelliJ IDEA • Git</sub>
 
-**Tools & Practices**
-<br/>
-<img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-<img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" />
-<img src="https://img.shields.io/badge/Agile%2FScrum-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+### ☁️ Cloud & DevOps
+<img src="https://skillicons.dev/icons?i=docker,github,linux,aws" />
+
+</td>
+<td width="50%" valign="top">
+
+### ⚡ Architecture & Messaging
+<img src="https://img.shields.io/badge/KAFKA-6c3fc5?style=flat-square" />
+<img src="https://img.shields.io/badge/MICROSERVICES-6c3fc5?style=flat-square" />
+<br/><br/>
+Apache Kafka • Microservices • Event-Driven Architecture • System Design • RESTful APIs
+
+### 🔐 Security & Access Control
+Role-Based Access Control (RBAC) • Secure Authentication • Data Integrity • Fault-Tolerant API Communication
+
+### 📊 Data & Schema Design
+3NF Schema Design • Indexing • Query Optimization • Relational Modeling
+
+### 🧰 DevOps & Practices
+CI/CD • Agile/Scrum • Version Control • Linux Environments • Maven Build Automation
+
+</td>
+</tr>
+</table>
 
 ---
 
