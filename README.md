@@ -144,20 +144,7 @@ MySQL / H2 Database
 
 ---
 
-## 📊 GitHub Analytics
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Rahul-web01&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul-web01&layout=compact&theme=default&hide_border=true" alt="Top Languages" width="45%" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rahul-web01&theme=default&hide_border=true" alt="GitHub Streak" width="97%" />
-
-</div>
-
----
-
-<div align="center">
 
 **📫 Let's connect — open to Software Engineering opportunities.**
 
