@@ -60,7 +60,7 @@ Detail-oriented **Software Engineer** with hands-on experience building RESTful 
 <br/><sub>JUnit • Postman • IntelliJ IDEA • Git</sub>
 
 ### ☁️ Cloud & DevOps
-<img src="https://skillicons.dev/icons?i=docker,github,linux,aws" />
+<img src="https://skillicons.dev/icons?i=docker,github,linux,aws,figma" />
 
 </td>
 <td width="50%" valign="top">
