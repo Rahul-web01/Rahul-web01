@@ -78,7 +78,7 @@ Role-Based Access Control (RBAC) • Secure Authentication • Data Integrity �
 3NF Schema Design • Indexing • Query Optimization • Relational Modeling
 
 ### 🧰 DevOps & Practices
-CI/CD • Agile/Scrum • Version Control • Linux Environments • Maven Build Automation
+CI/CD • Agile/Scrum • Version Control • Linux Environments • Maven Build Automation • Figma
 
 </td>
 </tr>
