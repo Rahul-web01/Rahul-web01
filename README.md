@@ -56,11 +56,11 @@ Detail-oriented **Software Engineer** with hands-on experience building RESTful 
 <br/><sub>MySQL • H2 Database • RDBMS • Query Optimization</sub>
 
 ### 🧪 Testing & Tools
-<img src="https://skillicons.dev/icons?i=git,idea,postman" />
+<img src="https://skillicons.dev/icons?i=git,idea,postman,figma" />
 <br/><sub>JUnit • Postman • IntelliJ IDEA • Git</sub>
 
 ### ☁️ Cloud & DevOps
-<img src="https://skillicons.dev/icons?i=docker,github,linux,aws,figma" />
+<img src="https://skillicons.dev/icons?i=docker,github,linux,aws" />
 
 </td>
 <td width="50%" valign="top">
