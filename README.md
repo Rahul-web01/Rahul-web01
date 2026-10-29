@@ -133,3 +133,29 @@ Service Layer (Business Logic) ↔ Apache Kafka (Event Streaming / Messaging)
 Spring Data JPA / Hibernate (ORM)
       ↓
 MySQL / H2 Database
+
+---
+
+## 📜 Certifications
+
+- SQL (Advanced) — HackerRank
+- Java (Basic) — HackerRank
+- Communication Skills — TCS iON
+- YUVA AI For All — TCS iON × IndiaAI
+- AI & Cybersecurity Awareness — MPIT-CoE
+
+## 🏅 Achievements & Competitions
+
+- **Zomathon** — Data Hackathon (Coding Ninjas × Zomato): applied data analytics and collaborative problem-solving to a real-world business case
+- **NationBuilding Case Study Competition 2026** (Unstop) and **AINCAT 2026** (Naukri Campus): competitive case-study and quantitative reasoning assessments
+
+---
+
+
+
+**📫 Let's connect — open to Software Engineering opportunities.**
+
+<a href="mailto:contact.rahul82@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://linkedin.com/in/rahul-singh-cs"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+</div>
