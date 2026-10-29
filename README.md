@@ -121,6 +121,8 @@ CI/CD • Agile/Scrum • Version Control • Linux Environments • Maven Build
 
 ---
 
+---
+
 ## ⚙️ Microservice Architecture Flow
 
 ```text
@@ -133,6 +135,7 @@ Service Layer (Business Logic) ↔ Apache Kafka (Event Streaming / Messaging)
 Spring Data JPA / Hibernate (ORM)
       ↓
 MySQL / H2 Database
+```
 
 ---
 
