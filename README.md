@@ -117,7 +117,7 @@ CI/CD • Agile/Scrum • Version Control • Linux Environments • Maven Build
 - Built a Java backend integrating third-party exchange-rate APIs for real-time multi-currency conversion
 - Implemented fault-tolerant JSON parsing with structured exception handling and retry logic for reliable API communication
 
-**Stack:** `Java` `REST API Integration` `JSON Parsing`
+**Stack:** `JavaScript` `CSS` `JSON Parsing`
 
 ---
 
