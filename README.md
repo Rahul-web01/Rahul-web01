@@ -1,17 +1,17 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=D4AF37&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Rahul+Singh+%F0%9F%91%8B;Backend+Software+Engineer;Java+%7C+Spring+Boot+%7C+Apache+Kafka;I+build+things+people+actually+use" alt="Hi, I'm Rahul Singh — Backend Software Engineer" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Rahul+Singh+%F0%9F%91%8B;Backend+Software+Engineer;Java+%7C+Spring+Boot+%7C+Apache+Kafka;I+build+things+people+actually+use" alt="Hi, I'm Rahul Singh — Backend Software Engineer" />
 
 <h3>Software Engineer &nbsp;·&nbsp; Java Backend Developer &nbsp;·&nbsp; Spring Boot &nbsp;·&nbsp; Microservices</h3>
 
 <p>
-  <a href="https://rahul-s-professional-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-D4AF37?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio" /></a>
+  <a href="https://rahul-s-professional-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 <a href="https://rahul-s-professional-portfolio.vercel.app/resume.pdf"><img src="https://img.shields.io/badge/Resume-1F3A68?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume" /></a>
   <a href="https://linkedin.com/in/rahul-singh-cs"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:contact.rahul82@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=Rahul-web01&color=D4AF37&style=flat-square&label=Profile+Views" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=Rahul-web01&color=2563EB&style=flat-square&label=Profile+Views" alt="Profile views" />
 
 </div>
 
@@ -137,7 +137,7 @@ Completed the **JPMorgan Chase Software Engineering Job Simulation**, building a
 
 **📫 Let's connect. I'm open to Software Engineering opportunities.**
 
-<a href="https://rahul-s-professional-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-D4AF37?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio" /></a>
+<a href="https://rahul-s-professional-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 <a href="https://rahul-s-professional-portfolio.vercel.app/resume.pdf"><img src="https://img.shields.io/badge/Resume-1F3A68?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume" /></a>
 <a href="https://linkedin.com/in/rahul-singh-cs"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:contact.rahul82@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
