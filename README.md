@@ -1,84 +1,65 @@
-<!-- ================= HEADER ================= -->
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=1F6FEB&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Rahul+Singh+%F0%9F%91%8B;Software+Engineer+%7C+Backend+Developer;Java+%7C+Spring+Boot+%7C+Apache+Kafka;Building+Scalable%2C+Fault-Tolerant+Systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=D4AF37&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Rahul+Singh+%F0%9F%91%8B;Backend+Software+Engineer;Java+%7C+Spring+Boot+%7C+Apache+Kafka;I+build+things+people+actually+use" alt="Hi, I'm Rahul Singh — Backend Software Engineer" />
 
-<h3>Software Engineer &nbsp;|&nbsp; Java Backend Developer &nbsp;|&nbsp; Spring Boot &nbsp;|&nbsp; Microservices</h3>
+<h3>Software Engineer &nbsp;·&nbsp; Java Backend Developer &nbsp;·&nbsp; Spring Boot &nbsp;·&nbsp; Microservices</h3>
 
 <p>
-  <a href="mailto:contact.rahul82@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://linkedin.com/in/rahul-singh-cs" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/Rahul-web01" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
+  <a href="https://rahul-s-professional-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-D4AF37?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/rahul-singh-cs"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:contact.rahul82@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=Rahul-web01&color=1F6FEB&style=flat-square&label=Profile+Views" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=Rahul-web01&color=D4AF37&style=flat-square&label=Profile+Views" alt="Profile views" />
 
 </div>
 
-<br/>
+## 👨‍💻 About me
 
-## 👨‍💻 About Me
+Backend-focused **Software Engineer** who builds and ships complete products with **Java, Spring Boot and Apache Kafka**,
+from event-driven microservices to secured, Dockerized web apps and local-AI automation tools.
+Completed the **JPMorgan Chase Software Engineering Job Simulation**, building a Kafka-based transaction-processing microservice.
 
-Detail-oriented **Software Engineer** with hands-on experience building RESTful APIs, event-driven microservices, and relational database systems using **Java, Spring Boot, and Apache Kafka**. Improved SQL query performance by **40%+** through indexing and schema optimization, and delivered a platform supporting **500+ concurrent users**. Completed the **JPMorgan Chase Software Engineering Job Simulation**, building a Kafka-based transaction-processing microservice.
+- 🏗️ **Backend architecture**: REST APIs and clean layered Spring applications (Controller → Service → Repository)
+- ⚡ **Event-driven systems**: Apache Kafka messaging and microservice communication
+- 🔐 **Security & reliability**: Spring Security role-based access, BCrypt, CSRF, validation and global error handling
+- 🤖 **Automation & AI**: Playwright browser automation and local LLMs (Ollama) for privacy-first tools
+- ✅ HackerRank-certified in **SQL (Advanced)** and **Java**, with a strong foundation in DSA and OOP
 
-- 🏗️ **Backend Architecture** — Robust RESTful APIs and clean MVC systems
-- ⚡ **Event-Driven Systems** — Messaging queues (Kafka) and microservice communication
-- 🗄️ **Database Optimization** — 3NF schema design, indexing, and query performance tuning
-- 🔐 **Security & Reliability** — RBAC, data integrity, and fault-tolerant API communication
-- ✅ HackerRank-certified in **SQL (Advanced)** and **Java**, with a strong foundation in DSA & OOP
-
-🎓 B.Tech in Computer Science & Engineering (2023–2027), Babu Banarasi Das University, Lucknow
-📍 Lucknow, Uttar Pradesh, India — open to Software Engineering roles
+🎓 B.Tech in Computer Science & Engineering (2023–2027), Babu Banarasi Das University, Lucknow<br/>
+📍 Lucknow, Uttar Pradesh, India · open to Software Engineering roles
 
 ---
 
-## ⚡ Tech Stack & Engineering Arsenal
+## ⚡ Tech stack
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
 
 ### 💻 Languages
-<img src="https://skillicons.dev/icons?i=java,js" />
+<img src="https://skillicons.dev/icons?i=java,python,js,ts" />
 
-### ⚙️ Backend & Frameworks
+### ⚙️ Backend & frameworks
 <img src="https://skillicons.dev/icons?i=spring,maven" />
-<br/><sub>Spring Boot • Spring MVC • Spring Data JPA • Hibernate • JDBC</sub>
+<br/><sub>Spring Boot • Spring MVC • Spring Security • Spring Data JPA • Hibernate • Thymeleaf</sub>
 
-### 🗄️ Databases & Caching
-<img src="https://skillicons.dev/icons?i=mysql" />
-<br/><sub>MySQL • H2 Database • RDBMS • Query Optimization</sub>
-
-### 🧪 Testing & Tools
-<img src="https://skillicons.dev/icons?i=git,idea,postman,figma" />
-<br/><sub>JUnit • Postman • IntelliJ IDEA • Git</sub>
-
-### ☁️ Cloud & DevOps
-<img src="https://skillicons.dev/icons?i=docker,github,linux,aws" />
+### 🗄️ Databases
+<img src="https://skillicons.dev/icons?i=mysql,sqlite" />
+<br/><sub>MySQL • TiDB Cloud • H2 • SQLite (FTS5)</sub>
 
 </td>
 <td width="50%" valign="top">
 
-### ⚡ Architecture & Messaging
-<img src="https://img.shields.io/badge/KAFKA-6c3fc5?style=flat-square" />
-<img src="https://img.shields.io/badge/MICROSERVICES-6c3fc5?style=flat-square" />
-<br/><br/>
-Apache Kafka • Microservices • Event-Driven Architecture • System Design • RESTful APIs
+### ☁️ Cloud, DevOps & tools
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux,aws,vercel" />
+<br/><sub>Docker • Render • Vercel • CI/CD • JUnit 5 • Mockito • Postman • IntelliJ IDEA</sub>
 
-### 🔐 Security & Access Control
-Role-Based Access Control (RBAC) • Secure Authentication • Data Integrity • Fault-Tolerant API Communication
+### 🎨 Frontend
+<img src="https://skillicons.dev/icons?i=react,tailwind,vite,html,css" />
 
-### 📊 Data & Schema Design
-3NF Schema Design • Indexing • Query Optimization • Relational Modeling
-
-### 🧰 DevOps & Practices
-CI/CD • Agile/Scrum • Version Control • Linux Environments • Maven Build Automation • Figma
+### 🧠 Architecture & automation
+<sub>Apache Kafka • Microservices • Event-driven architecture • REST APIs • Playwright • Ollama (local LLMs)</sub>
 
 </td>
 </tr>
@@ -88,88 +69,75 @@ CI/CD • Agile/Scrum • Version Control • Linux Environments • Maven Build
 
 ## 🚀 Featured Projects
 
-### 🧭 [JobPilot — Private AI Job-Search Assistant](https://github.com/Rahul-web01/job-pilot)
+### 🧭 [JobPilot: private AI job-search assistant](https://github.com/Rahul-web01/job-pilot)
 *Nov 2026* · [🎬 See demo](https://github.com/Rahul-web01/job-pilot#demo)
 
-<a href="https://github.com/Rahul-web01/job-pilot#demo"></a>
-
-- Built a local-first Spring Boot app that pulls jobs from **Greenhouse, Lever and Remotive** APIs and scores each one **0–100** against the user's titles, skills and locations
+- Local-first Spring Boot app that pulls jobs from **Greenhouse, Lever and Remotive** APIs and scores each one **0–100** against the user's titles, skills and locations
 - Tailors a resume summary and cover letter per job with a free local LLM (**Ollama**) and renders them as PDFs; experience and projects are copied verbatim so the AI can't invent anything
-- Auto-fills real application forms with **Playwright** (never auto-submits) and finds published HR emails, drafts outreach and sends via Gmail SMTP with follow-up reminders and a daily limit
+- Auto-fills real application forms with **Playwright** (never auto-submits), finds published HR emails, and sends outreach through Gmail SMTP with follow-up reminders and a daily limit
 
-**Stack:** `Java 21` `Spring Boot` `H2` `Thymeleaf` `Playwright` `Ollama` `PDFBox` `Gmail SMTP`
+**Stack:** `Java 21` `Spring Boot` `H2` `Thymeleaf` `Playwright` `Ollama` `PDFBox`
 
-### 🏦 [Midas Core — Kafka-Based Transaction Processing Microservice](https://github.com/Rahul-web01/midas-core)
-*JPMorgan Chase Software Engineering Job Simulation (Forage) · July 2026*
-- Built a Spring Boot microservice that consumes and deserializes high-volume transaction messages via **Apache Kafka** using an embedded test framework
-- Modeled relational entities and implemented transaction validation, persistence, and balance-update logic with **Spring Data JPA** and H2
-- Integrated an external REST Incentive API via `RestTemplate` and exposed a JSON balance-query endpoint through a Spring REST controller
+### 🏦 [Midas Core: Kafka transaction-processing microservice](https://github.com/Rahul-web01/midas-core)
+*JPMorgan Chase Software Engineering Job Simulation (Forage) · Jul 2026*
 
-**Stack:** `Java` `Spring Boot` `Apache Kafka` `Spring Data JPA` `H2`
+- Spring Boot microservice that consumes and deserializes transaction messages from **Apache Kafka**, tested with an embedded Kafka broker
+- Validates transactions and updates balances with **Spring Data JPA** entities on H2
+- Calls an external REST incentive API with `RestTemplate` and exposes a JSON balance-query endpoint
 
-### 📚 [ScholarSpace — Academic Resource Management Platform](https://github.com/Rahul-web01/Scholarspace-main)
-*Aug 2025*
-- Architected a scalable REST API backend for a multi-role platform (admin, faculty, student) supporting **500+ concurrent users**
-- Designed a normalized MySQL schema (3NF) and **boosted high-frequency query performance by 40%+** through indexing and optimized joins
-- Implemented secure, role-based access control (RBAC) for tiered admin, faculty, and student permissions
+**Stack:** `Java` `Spring Boot` `Apache Kafka` `Spring Data JPA` `H2` `JUnit`
 
-**Stack:** `Java` `Spring Boot` `MySQL` `REST API`
+### 👔 [Employee Management System](https://github.com/Rahul-web01/Employee-Management-System)
+*Oct 2026* · [🌐 Live demo](https://employee-management-system-yuzi.onrender.com/)
 
-### 👔 [Employee Management System — Cloud Deployed Application](https://github.com/Rahul-web01/Employee-Management-System)
-*Oct 2026*
-- Containerized a Spring Boot MVC application using **Docker** and deployed it to **Render** with a multi-stage automated build pipeline
-- Configured production-grade database connectivity with **Aiven MySQL** cloud instance over secure SSL (`sslMode=REQUIRED`)
-- Implemented automated schema initialization via Hibernate ORM and Spring Data JPA for persistent CRUD operation management
+- Full-stack CRUD app for employees and departments with a layered Spring Boot architecture, built during a Java Full Stack internship at **Adyapan**
+- **Spring Security** login with three roles (Admin, HR, Viewer), BCrypt passwords, CSRF protection and server-side access checks
+- Bean validation, duplicate-email protection and a global exception handler; tested with JUnit 5, Mockito and MockMvc
+- Deployed as a multi-stage **Docker** image on Render with a MySQL-compatible **TiDB Cloud** database over TLS
 
-**Stack:** `Java` `Spring Boot` `Docker` `MySQL (Aiven)` `Render` `Spring Data JPA`
+**Stack:** `Java 17` `Spring Boot` `Spring Security` `Spring Data JPA` `Thymeleaf` `MySQL` `Docker`
 
-### 💱 [Real-Time Currency Exchange API](https://github.com/Rahul-web01/Currency-Exchange-App)
-*Jan 2026*
-- Built a Java backend integrating third-party exchange-rate APIs for real-time multi-currency conversion
-- Implemented fault-tolerant JSON parsing with structured exception handling and retry logic for reliable API communication
+### 📚 [ScholarSpace: free study-material hub](https://github.com/Rahul-web01/Scholarspace-main)
+*Aug 2025* · [🌐 Live site](https://scholarspace-main.vercel.app/)
 
-**Stack:** `JavaScript` `CSS` `JSON Parsing`
+- Notes, previous-year papers and practice sets for university students: **750+ files across 90 subjects**, organised by college, course and year
+- **Ask Notes**: a Python serverless search API with an SQLite FTS5 index and BM25 ranking that searches inside every PDF, Word and PowerPoint file, including OCR'd handwritten pages
+- Python tools crawl Google Drive and build the catalogue; moderated student uploads, an SGPA calculator, and light/dark mode
 
----
+**Stack:** `Python` `SQLite FTS5` `JavaScript` `HTML/CSS` `Google Drive` `Vercel`
 
----
+### 💱 [Live Currency Converter](https://github.com/Rahul-web01/Currency-Exchange-App)
+*Jan 2026* · [🌐 Live demo](https://currency-exchange-dackf2w6x-rahuls-projects-98687e81.vercel.app/)
 
-## ⚙️ Microservice Architecture Flow
+- Converts between **160+ currencies** at live market rates that refresh every 60 seconds
+- **30-day trend chart** with percent change, low and high, from ECB data
+- Cancels stale requests, retries automatically, and is accessible (labelled inputs, live-region announcements, reduced motion)
 
-```text
-Client Request
-      ↓
-REST API Controller (Validation)
-      ↓
-Service Layer (Business Logic) ↔ Apache Kafka (Event Streaming / Messaging)
-      ↓
-Spring Data JPA / Hibernate (ORM)
-      ↓
-MySQL / H2 Database
-```
+**Stack:** `React` `Vite` `Tailwind CSS` `REST APIs`
 
 ---
 
 ## 📜 Certifications
 
-- SQL (Advanced) — HackerRank
-- Java (Basic) — HackerRank
-- Communication Skills — TCS iON
-- YUVA AI For All — TCS iON × IndiaAI
-- AI & Cybersecurity Awareness — MPIT-CoE
+- SQL (Advanced) · HackerRank
+- Java (Basic) · HackerRank
+- Communication Skills · TCS iON
+- YUVA AI For All · TCS iON × IndiaAI
+- AI & Cybersecurity Awareness · MPIT-CoE
 
-## 🏅 Achievements & Competitions
+## 🏅 Achievements & competitions
 
-- **Zomathon** — Data Hackathon (Coding Ninjas × Zomato): applied data analytics and collaborative problem-solving to a real-world business case
-- **NationBuilding Case Study Competition 2026** (Unstop) and **AINCAT 2026** (Naukri Campus): competitive case-study and quantitative reasoning assessments
+- **Zomathon**: data hackathon (Coding Ninjas × Zomato), applying data analytics to a real business case
+- **NationBuilding Case Study Competition 2026** (Unstop) and **AINCAT 2026** (Naukri Campus)
 
 ---
 
+<div align="center">
 
+**📫 Let's connect. I'm open to Software Engineering opportunities.**
 
-**📫 Let's connect — open to Software Engineering opportunities **
-
-<a href="mailto:contact.rahul82@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://linkedin.com/in/rahul-singh-cs"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://rahul-s-professional-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-D4AF37?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio" /></a>
+<a href="https://linkedin.com/in/rahul-singh-cs"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:contact.rahul82@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
 </div>
