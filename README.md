@@ -156,7 +156,7 @@ MySQL / H2 Database
 
 
 
-**📫 Let's connect — open to Software Engineering opportunities.**
+**📫 Let's connect — open to Software Engineering opportunities **
 
 <a href="mailto:contact.rahul82@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://linkedin.com/in/rahul-singh-cs"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
