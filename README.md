@@ -89,7 +89,10 @@ CI/CD • Agile/Scrum • Version Control • Linux Environments • Maven Build
 ## 🚀 Featured Projects
 
 ### 🧭 [JobPilot — Private AI Job-Search Assistant](https://github.com/Rahul-web01/job-pilot)
-*Nov 2026*
+*Nov 2026* · [🎬 See demo](https://github.com/Rahul-web01/job-pilot#demo)
+
+<a href="https://github.com/Rahul-web01/job-pilot#demo"><img src="https://raw.githubusercontent.com/Rahul-web01/job-pilot/main/docs/board.png" alt="JobPilot board with scored jobs" width="720"></a>
+
 - Built a local-first Spring Boot app that pulls jobs from **Greenhouse, Lever and Remotive** APIs and scores each one **0–100** against the user's titles, skills and locations
 - Tailors a resume summary and cover letter per job with a free local LLM (**Ollama**) and renders them as PDFs; experience and projects are copied verbatim so the AI can't invent anything
 - Auto-fills real application forms with **Playwright** (never auto-submits) and finds published HR emails, drafts outreach and sends via Gmail SMTP with follow-up reminders and a daily limit
