@@ -88,6 +88,14 @@ CI/CD • Agile/Scrum • Version Control • Linux Environments • Maven Build
 
 ## 🚀 Featured Projects
 
+### 🧭 [JobPilot — Private AI Job-Search Assistant](https://github.com/Rahul-web01/job-pilot)
+*Nov 2026*
+- Built a local-first Spring Boot app that pulls jobs from **Greenhouse, Lever and Remotive** APIs and scores each one **0–100** against the user's titles, skills and locations
+- Tailors a resume summary and cover letter per job with a free local LLM (**Ollama**) and renders them as PDFs; experience and projects are copied verbatim so the AI can't invent anything
+- Auto-fills real application forms with **Playwright** (never auto-submits) and finds published HR emails, drafts outreach and sends via Gmail SMTP with follow-up reminders and a daily limit
+
+**Stack:** `Java 21` `Spring Boot` `H2` `Thymeleaf` `Playwright` `Ollama` `PDFBox` `Gmail SMTP`
+
 ### 🏦 [Midas Core — Kafka-Based Transaction Processing Microservice](https://github.com/Rahul-web01/midas-core)
 *JPMorgan Chase Software Engineering Job Simulation (Forage) · July 2026*
 - Built a Spring Boot microservice that consumes and deserializes high-volume transaction messages via **Apache Kafka** using an embedded test framework
