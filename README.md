@@ -26,12 +26,12 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Software Engineer** focused on backend development. I build RESTful APIs, event-driven microservices, and relational database systems with **Java, Spring Boot, and Apache Kafka**.
+I'm a **Software Engineer** focused on backend development. I build REST APIs, event-driven microservices and full-stack web apps with **Java, Spring Boot and Apache Kafka**, and I ship them live on Render and Vercel.
 
 <table>
 <tr>
-<td align="center" width="25%"><h3>40%+</h3><sub>Faster SQL queries through indexing & schema optimization</sub></td>
-<td align="center" width="25%"><h3>500+</h3><sub>Concurrent users supported on a multi-role platform</sub></td>
+<td align="center" width="25%"><h3>6</h3><sub>Projects on GitHub, 4 with live demos</sub></td>
+<td align="center" width="25%"><h3>800+</h3><sub>Study files searchable inside ScholarSpace</sub></td>
 <td align="center" width="25%"><h3>JPMC</h3><sub>Software Engineering Job Simulation — Kafka microservice</sub></td>
 <td align="center" width="25%"><h3>2×</h3><sub>HackerRank certified — SQL (Advanced) & Java</sub></td>
 </tr>
@@ -51,7 +51,7 @@ I'm a **Software Engineer** focused on backend development. I build RESTful APIs
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,maven,mysql,kafka,docker,aws,linux,git,github,idea,postman,js,figma&perline=7" alt="Tech stack icons" />
+<img src="https://skillicons.dev/icons?i=java,spring,kafka,mysql,sqlite,python,ts,js,react,tailwind,docker,githubactions,vercel,aws,linux,git,maven,idea,postman,figma&perline=10" alt="Tech stack icons" />
 
 </div>
 
@@ -59,13 +59,14 @@ I'm a **Software Engineer** focused on backend development. I build RESTful APIs
 
 | Area | Technologies |
 |:--|:--|
-| **Languages** | Java, JavaScript, SQL |
-| **Frameworks** | Spring Boot, Spring MVC, Spring Data JPA, Hibernate, JDBC |
-| **Messaging & Architecture** | Apache Kafka, Microservices, Event-Driven Architecture, REST APIs, System Design |
-| **Databases** | MySQL, H2, Aiven MySQL (cloud) — 3NF modeling, indexing, query optimization |
-| **Testing & Tools** | JUnit, Postman, IntelliJ IDEA, Git, Maven |
-| **Cloud & DevOps** | Docker, Render, AWS, Linux, CI/CD |
-| **Practices** | Agile/Scrum, RBAC, Secure Authentication, Version Control |
+| **Languages** | Java, JavaScript, TypeScript, Python, SQL |
+| **Backend** | Spring Boot, Spring MVC, Spring Security, Spring Data JPA, Hibernate, Thymeleaf |
+| **Messaging & Architecture** | Apache Kafka, Microservices, Event-Driven Architecture, REST APIs |
+| **Databases & Search** | MySQL, TiDB Cloud, H2, SQLite FTS5 (BM25 full-text search) |
+| **Frontend** | React, Vite, Tailwind CSS, Framer Motion |
+| **Automation & AI** | Playwright, Ollama (local LLMs) |
+| **Testing & Tools** | JUnit 5, Mockito, Postman, IntelliJ IDEA, Git, Maven |
+| **Cloud & DevOps** | Docker, Render, Vercel, GitHub Actions, Linux |
 
 ---
 
@@ -75,13 +76,29 @@ I'm a **Software Engineer** focused on backend development. I build RESTful APIs
 <tr>
 <td width="50%" valign="top">
 
+### 🤖 [JobPilot](https://github.com/Rahul-web01/job-pilot)
+**Free, private AI job-search assistant**
+
+- Finds jobs from Greenhouse, Lever and Remotive and **scores** each one 0–100 against your skills
+- Tailors a resume summary and cover letter per job with a **local LLM (Ollama)**, exported as PDFs
+- **Auto-fills** application forms in Chrome with **Playwright**; you review and press Submit
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square)
+![H2](https://img.shields.io/badge/H2-1F6FEB?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
+
 ### 🏦 [Midas Core](https://github.com/Rahul-web01/midas-core)
-**Kafka-based transaction-processing microservice**
+**Kafka transaction-processing microservice**
 <br/><sub>JPMorgan Chase SWE Job Simulation (Forage) · Jul 2026</sub>
 
-- Consumes and deserializes high-volume transaction messages from **Kafka**, tested with embedded Kafka
-- Validates, persists, and updates balances with **Spring Data JPA** + H2
-- Calls an external Incentive REST API via `RestTemplate` and exposes a JSON balance-query endpoint
+- Consumes transactions from a **Kafka** topic and validates sender, recipient and balance
+- Updates both balances and records the transaction in one `@Transactional` method with **Spring Data JPA**
+- Calls an external incentive REST API with `RestTemplate` and serves balances at `GET /balance`
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
@@ -89,53 +106,68 @@ I'm a **Software Engineer** focused on backend development. I build RESTful APIs
 ![H2](https://img.shields.io/badge/H2-1F6FEB?style=flat-square)
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
-### 📚 [ScholarSpace](https://github.com/Rahul-web01/Scholarspace-main)
-**Academic resource management platform**
-<br/><sub>Aug 2025</sub>
+### 📚 [ScholarSpace](https://github.com/Rahul-web01/Scholarspace-main) · [Live](https://scholarspace-main.vercel.app)
+**Free study-material hub with search inside every file**
 
-- REST API backend for a multi-role platform (admin, faculty, student) supporting **500+ concurrent users**
-- Normalized **MySQL** schema (3NF); **40%+ faster** high-frequency queries via indexing and optimized joins
-- Role-based access control (**RBAC**) for tiered permissions
+- **800+ notes and papers across 120+ subjects**, organised by college, course and year
+- Full-text search with **SQLite FTS5 + BM25** ranking; scanned pages made searchable with offline OCR
+- A nightly **GitHub Actions** job picks up new files and rebuilds the search index
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+### 👔 [Employee Management System](https://github.com/Rahul-web01/Employee-Management-System) · [Live](https://employee-management-system-yuzi.onrender.com)
+**Role-based employee portal**
+<br/><sub>Oct 2026</sub>
+
+- **Spring Security** login with Admin, HR and Viewer roles, BCrypt passwords and CSRF protection
+- Employee CRUD with departments, search, validation and friendly error pages
+- Tested with JUnit 5, Mockito and MockMvc; **Docker** deploy on Render with a **TiDB Cloud** (MySQL-compatible) database
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![REST](https://img.shields.io/badge/REST_API-FF6C37?style=flat-square)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 👔 [Employee Management System](https://github.com/Rahul-web01/Employee-Management-System)
-**Cloud-deployed Spring Boot application**
-<br/><sub>Oct 2026</sub>
+### 💱 [Currency Converter](https://github.com/Rahul-web01/Currency-Exchange-App) · [Live](https://currency-exchange-app-rahuls-projects-98687e81.vercel.app/)
+**Live rates for 160+ currencies**
+<br/><sub>Jan 2026</sub>
 
-- Containerized with **Docker** (multi-stage build) and deployed to **Render**
-- Connected to an **Aiven MySQL** cloud instance over SSL (`sslMode=REQUIRED`)
-- Automatic schema initialization with Hibernate and Spring Data JPA for CRUD operations
+- Rates refresh every minute, with a **30-day trend chart** drawn as a hand-built SVG
+- Indian digit grouping and lakh/crore hints for INR
+- Runs fully in the browser on free, keyless APIs
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![MySQL](https://img.shields.io/badge/Aiven_MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
 </td>
 <td width="50%" valign="top">
 
-### 💱 [Real-Time Currency Exchange](https://github.com/Rahul-web01/Currency-Exchange-App)
-**Multi-currency conversion app**
-<br/><sub>Jan 2026</sub>
+### 🌐 [Portfolio](https://github.com/Rahul-web01/Rahul-s-Professional-Portfolio) · [Live](https://rahul-s-professional-portfolio.vercel.app/)
+**My developer portfolio**
 
-- Integrates third-party exchange-rate APIs for real-time multi-currency conversion
-- Fault-tolerant JSON parsing with structured error handling and retry logic
+- Projects, skills and experience with scroll animations
+- Built with **React 19, TypeScript** and **Tailwind CSS**, deployed on Vercel
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JSON](https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
 
 </td>
 </tr>
